@@ -1,5 +1,7 @@
 # Hello! 👋 I'm Ryan.
+
 🌎 Chicago, IL, USA
+
 📧 ryanjerickson@gmail.com
 
 Problem solving is what I live for. I am a fast study, and eager to learn any new technologies to enable me to complete my goals. I love looking back at the things I've created and accomplishments I've made and that is what drives me. I'm always looking to improve my skills as a developer and love feedback and suggestions.
