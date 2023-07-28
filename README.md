@@ -13,8 +13,8 @@ I want to implement my education in a way that enhances the lives of others and 
 
 ## Tech I've used
 ### 📚 Languages/Libraries
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,py,nodejs,flask,express)]
+![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,py,nodejs,flask,express)
 ### 🛠 Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,github,postman,netlify,vscode)]
+![My Skills](https://skillicons.dev/icons?i=aws,docker,github,postman,netlify,vscode)
 ### 💾 Databases
-[![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,graphql)]
+![My Skills](https://skillicons.dev/icons?i=sqlite,postgres,graphql)
