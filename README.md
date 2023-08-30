@@ -4,6 +4,8 @@
 
 📧 ryanjerickson@gmail.com
 
+[Connect with me on Linkedin](https://www.linkedin.com/in/ryan-erickson-dev/) | [View My Resume](https://drive.google.com/file/d/1ok72j1PChfblY5vRpxOuI712Eka85riB)
+
 Problem solving is what I live for. I am a fast study, and eager to learn any new technologies to enable me to complete my goals. I love looking back at the things I've created and accomplishments I've made and that is what drives me. I'm always looking to improve my skills as a developer and love feedback and suggestions.
 
 After reaching the top of my field in aviation I was ready for a change. I found coding at a young age and it was always my plan until my passion for flight took over for 15 years. I'm now happy to call myself a full time developer and fly for fun on the weekends, which is the perfect balance for me.
