@@ -4,7 +4,7 @@
 
 📧 ryanjerickson@gmail.com
 
-[Connect with me on Linkedin](https://www.linkedin.com/in/ryan-erickson-dev/) | [View My Resume]([https://drive.google.com/file/d/1ok72j1PChfblY5vRpxOuI712Eka85riB](https://github.com/RyanFullStack/Portfolio/blob/main/RyanEricksonResume.pdf)) | [View My Portfolio](https://ryanerickson.netlify.app/)
+[Connect with me on Linkedin](https://www.linkedin.com/in/ryan-erickson-dev/) | [View My Resume](https://github.com/RyanFullStack/Portfolio/blob/main/RyanEricksonResume.pdf) | [View My Portfolio](https://ryanerickson.netlify.app/)
 
 Problem solving is what I live for. I am a fast study, and eager to learn any new technologies to enable me to complete my goals. I love looking back at the things I've created and accomplishments I've made and that is what drives me. I'm always looking to improve my skills as a developer and love feedback and suggestions.
 
