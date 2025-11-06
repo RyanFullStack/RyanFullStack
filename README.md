@@ -4,7 +4,7 @@
 
 📧 ryanjerickson@gmail.com
 
-[Connect with me on Linkedin](https://www.linkedin.com/in/ryan-erickson-dev/) | [View My Resume](https://ryanerickson.netlify.app/RyanEricksonResume.pdf) | [View My Portfolio](https://ryanerickson.netlify.app/)
+[Connect with me on Linkedin](https://www.linkedin.com/in/ryan-erickson-dev/) | [View My Portfolio](https://ryanerickson.netlify.app/)
 
 I love learning. I am a fast study, and eager to enhance my experience with any new technologies to enable me to complete my goals. I have a track record of accomplishments and am always looking for the next step forward. I love creating bespoke solutions for a variety of needs.
 
